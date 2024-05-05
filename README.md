@@ -5,6 +5,11 @@ cd: Change the current directory to a specified path.
 src![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/cd91aaae-6ac0-4d6c-af4f-c0e2bb18e5b7)
 
 mkdir: Create a new directory with a given name.
+src![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/8d490ef5-beb1-4ed3-88a8-b58e85b3c1d2)
+
+
+
+
 rmdir: Remove an empty directory.
 cp: Copy a file or directory from one location to another.
 rm: Remove a file or directory.
