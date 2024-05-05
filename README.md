@@ -25,6 +25,9 @@ src![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/97d55
 lpr: Print a file on a connected printer.
 src![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/4e92cf25-9b7c-4573-8d5c-231b323f6445)
 
-man: Display the manual pages for a specified command.
 grep: Search for a specified pattern in one or more files.
+src![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/954b17ce-fe72-4f92-beaf-cad9680731b8)
+
 sed: Utilize a stream editor for filtering and transforming text.
+src![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/3e3189db-68c5-4ae3-b123-74cbbbc9244a)
+
