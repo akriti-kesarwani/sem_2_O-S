@@ -24,6 +24,11 @@ Exercise-4--> Write a shell script to check to see if the file “file_path” e
 
 Exercise-5-->Write a shell script that displays “man”,”bear”,”pig”,”dog”,”cat”,and “sheep” on the screen with each appearing on a separate line. Try to do this in as few lines as possible.
 
+![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/6e69d6c1-0b70-414e-9afe-f584645bd905)
+
+![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/891c0c9a-066c-4621-a266-9f979ea5128a)
+
+
 
 
 
