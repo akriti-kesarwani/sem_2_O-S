@@ -30,6 +30,11 @@ Exercise-5-->Write a shell script that displays “man”,”bear”,”pig”,�
 
 Exercise-6-->write a shell script that prompts the user for a name of a file or directory and reports if it is a regular file, a directory, or another type of file. Also perform an ls command against the file or directory with the long listing option.
 
+![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/712361ed-9d5c-4dde-ae55-ab93c4176f99)
+
+![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/4ff65acd-8df0-4997-bb35-24fc13bb1ece)
+
+
 
 
 
