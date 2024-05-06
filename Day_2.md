@@ -34,6 +34,10 @@ Exercise-6-->write a shell script that prompts the user for a name of a file or 
 
 ![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/4ff65acd-8df0-4997-bb35-24fc13bb1ece)
 
+Exercise-7--> Modify the previous script to that it accepts the file or directory name as an argument instead of prompting the user to enter it.
+
+
+
 
 
 
