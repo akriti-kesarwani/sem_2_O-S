@@ -18,6 +18,16 @@ Exercise-2--> Modify the shellscript from exercise 1 to include a variable , the
 Exercise-4--> Write a shell script to check to see if the file “file_path” exists. If it does exist, display “file_path passwords are enabled.” Next, check to see if you can write to the file. If you can, display “You have permissions to edit “file_path.””If you cannot, display “You do NOT have permissions to edit “file_path”
 
 
+![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/d5d9d578-1a8d-4ac7-9a85-ab2781bd2dd6)
+
+![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/b9e52c51-50f5-428e-8348-e95df974dfd8)
+
+Exercise-5-->Write a shell script that displays “man”,”bear”,”pig”,”dog”,”cat”,and “sheep” on the screen with each appearing on a separate line. Try to do this in as few lines as possible.
+
+
+
+
+
 
 
 
