@@ -11,6 +11,7 @@ Exercise-2--> Modify the shellscript from exercise 1 to include a variable , the
 ![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/7fde72d5-1f2e-4372-afa0-2c6c877dba32)
 
  Exercise-3--> Store the output of the command “hostname” in a variable. Display “This script is running on _.” where “_” is the output of the “hostname” command.
+ ![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/64aba0e2-f869-4a98-a88b-69fed0a6e898)
 
  ![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/7d25fce6-8df6-4f78-ab28-ef05343fe078)
 
