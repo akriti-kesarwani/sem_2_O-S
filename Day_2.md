@@ -32,3 +32,5 @@ Exercise-5-->Write a shell script that displays “man”,”bear”,”pig”,�
 
 
 
+
+
