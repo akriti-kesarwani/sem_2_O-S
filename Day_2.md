@@ -1,13 +1,23 @@
-write the shell script that print shell is fun on the screen
+ Exercise-1--> write the shell script that print shell is fun on the screen
 
 ![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/3864623d-bece-417e-b8b5-414139f62c1a)
 
 <img width="1464" alt="Screenshot 2024-05-06 at 4 54 48 PM" src="https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/09ef698a-f14c-4a81-aa79-d8af0d447b91">
 
-Modify the shellscript from exercise 1 to include a variable , the variable will hold the content of the message shellscript is nice.
+Exercise-2--> Modify the shellscript from exercise 1 to include a variable , the variable will hold the content of the message shellscript is nice.
 
 ![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/e462698c-a3ae-4384-b1c5-19dc05796ce5)
 
 ![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/7fde72d5-1f2e-4372-afa0-2c6c877dba32)
+
+ Exercise-3--> Store the output of the command “hostname” in a variable. Display “This script is running on _.” where “_” is the output of the “hostname” command.
+
+ ![image](https://github.com/akriti-kesarwani/sem_2_O-S/assets/142775584/7d25fce6-8df6-4f78-ab28-ef05343fe078)
+
+Exercise-4--> Write a shell script to check to see if the file “file_path” exists. If it does exist, display “file_path passwords are enabled.” Next, check to see if you can write to the file. If you can, display “You have permissions to edit “file_path.””If you cannot, display “You do NOT have permissions to edit “file_path”
+
+
+
+
 
 
